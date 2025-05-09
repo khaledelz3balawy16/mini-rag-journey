@@ -42,5 +42,8 @@ Set your environment variables in the `.env` file. Like `OPENAI_API_KEY` value.
 
 khaled elz3blawy 
 16
+KH
+DD
+
 
 
